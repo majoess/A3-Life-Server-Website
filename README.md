@@ -1,8 +1,8 @@
 # A3-Life-Server-Website
 
-Ein Website Template für deinen A3-Life Server. Ob auf deinem Server nun AltisLife, TanoaLife, TakistanLife, StratisLife, oder was auch immer läuft ist egal. Du hast die Möglichkeit das Template an deine Wünsche anzupassen.
+[![Build Status](https://scrutinizer-ci.com/g/majoess/A3-Life-Server-Website/badges/build.png?b=master)](https://scrutinizer-ci.com/g/majoess/A3-Life-Server-Website/build-status/master)
 
-![Entwicklungsstatus: 40%](http://i.imgur.com/xUHE7WP.png)
+Ein Website Template für deinen A3-Life Server. Ob auf deinem Server nun AltisLife, TanoaLife, TakistanLife, StratisLife, oder was auch immer läuft ist egal. Du hast die Möglichkeit das Template an deine Wünsche anzupassen.
 
 Mit der Nutzung dieser Software stimmst du den Lizenzbedingungen zu ( Apache License 2.0). Bei nicht Einhaltung dieser können rechtliche Schritte folgen.
 
