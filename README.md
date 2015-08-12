@@ -2,6 +2,8 @@
 
 Ein Website Template für deinen A3-Life Server. Ob auf deinem Server nun AltisLife, TanoaLife, TakistanLife, StratisLife, oder was auch immer läuft ist egal. Du hast die Möglichkeit das Template an deine Wünsche anzupassen.
 
+![Entwicklungsstatus: 40%](http://i.imgur.com/xUHE7WP.png)
+
 Mit der Nutzung dieser Software stimmst du den Lizenzbedingungen zu ( Apache License 2.0). Bei nicht Einhaltung dieser können rechtliche Schritte folgen.
 
 # Download
