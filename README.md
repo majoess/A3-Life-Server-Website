@@ -4,6 +4,10 @@ Ein Website Template für deinen A3-Life Server. Ob auf deinem Server nun AltisL
 
 Mit der Nutzung dieser Software stimmst du den Lizenzbedingungen zu ( Apache License 2.0). Bei nicht Einhaltung dieser können rechtliche Schritte folgen.
 
+# Download
+
+Hallo, lade dir bitte **nicht** die .zip runter, da hier auch Sachen sind, die vielleicht unpassend für eine aktive Webseite sind. **Deshalb lade dir nur die Releases runter**: [Hier](https://github.com/majoess/A3-Life-Server-Website/releases)
+
 # Features
 
 * Verlinkung zum Forum
