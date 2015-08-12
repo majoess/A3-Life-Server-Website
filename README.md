@@ -20,6 +20,11 @@ Hallo, lade dir bitte **nicht** die .zip runter, da hier auch Sachen sind, die v
 * Impressum
   * **Ihr seit dazu verpflichtet, dieses mit richtigen Daten auszufüllen und öffentlich, gut sichtbar zu halten, da dies im deutschen Telegesetzbuch so vorgeschrieben ist!**
 
+# Screenshot
+
+![Screenshot 1](https://cloud.githubusercontent.com/assets/12019871/9222792/f74ae6d8-40f4-11e5-8d19-1ff072d2d86f.png)
+
+
 # Was darf ich ändern?
 
 * Du darfst eigentlich alles ändern
